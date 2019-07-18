@@ -1,3 +1,4 @@
+2018ish
 4/3-5 working on making button work, new page, button css like graphic designing 
 4/10 working no code thinkign about what i should do, trying to pring and get rid of undefine
 4/13 decide to do soething else because too boring, came up with idea of circles floating and something chasing after it and then that will play music
